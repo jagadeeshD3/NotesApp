@@ -1,3 +1,3 @@
-# Notes App in React.js
+Website is Deployed on netlify
 
-![Screenshot (421)](https://user-images.githubusercontent.com/89729177/132137360-3515b331-6d30-48ea-9959-3b5815e66593.png)
+link :-https://notesbydj.netlify.app/
